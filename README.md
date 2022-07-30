@@ -277,7 +277,7 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Sukesh Perla - [LinkedIn](https:www.linkedin.com/in/sukeshperla) - sukesh9244@gmail.com
+Sukesh Perla - [LinkedIn](https://www.linkedin.com/in/sukeshperla/) - sukesh9244@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Sukesh-Perla)
 

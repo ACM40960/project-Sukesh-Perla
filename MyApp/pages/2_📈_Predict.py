@@ -31,7 +31,7 @@ add_bg_from_url()
 
 
 #Loading the model
-cancer_model = load_model("MyApp/Best_model/")
+cancer_model = load_model("Best_model/")
 
 #make a title for your webapp
 st.markdown('<h1 style="text-align:left;color:DeepPink;font-weight:bolder;font-size:40px;">User Information</h1>',unsafe_allow_html=True)
@@ -79,17 +79,8 @@ if agree and uploaded_file is None:
          'Select the Sample:',
          ("Sample01-Malignant.png","Sample02-Malignant.png","Sample03-Malignant.png","Sample04-Malignant.png",
          "Sample05-Benign.png","Sample06-Benign.png","Sample07-Benign.png","Sample08-Benign.png"))
-    image_data = Image.open("MyApp/Sample_Images/"+image)
+    image_data = Image.open("Sample_Images/"+image)
     st.image(image_data.resize((512,256)))
-
-
-
-
-
-
-
-
-
 
 else:
     if uploaded_file is not None:

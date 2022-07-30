@@ -70,7 +70,7 @@ def getcentre(country,df):
 def gettype(data):
     return type(data)
 #get data
-data=getdata("MyApp/Data/data.csv")
+data=getdata("Data/data.csv")
 
 #st.write(datadata.set_index('Country'))
 country = getcountry(data)

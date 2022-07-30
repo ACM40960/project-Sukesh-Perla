@@ -98,7 +98,7 @@ But there is good news:
 * Breast Cancer's mortality rate has been **declining since 1989**
 * Women whose breast cancer is detected at an early stage have a **93 percent or higher survival rate**
 
-Based on the experimental results, the proposed model achieved 90% accuracy
+Based on the experimental results, the proposed model achieved 91.5% accuracy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -1,3 +1,4 @@
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out my README. If you have a suggestion
@@ -28,18 +29,18 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Images/pink-ribbon-transparent-9.png" alt="Logo" width="200" height="200">
+    <img src="Images/pink-ribbon-transparent-9" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">BREAST CANCER DETECTION</h3>
 
   <p align="center">
-    Prediction of Breast Cancer using histopathology image
+    "Prediction Of Breast Cancer Using Histopathology Image" <br> By <br> Sukesh Perla & Raghul Ravikumar<br>
     <br />
-    <a href="https://github.com/ACM40960/project-Sukesh-Perla"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ACM40960/project-Sukesh-Perla."><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com" target="_blank">View Demo</a>
+    <a  href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-Sukesh-Perla/issues">Report Bug</a>
     ·
@@ -80,14 +81,18 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 
+
+> **Note**
+> Click on the image to view website 🌐  
 
 [![Product Name Screen Shot][product-screenshot]](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com)
 
 A **Convolutional Neural Network**, also known as CNN or ConvNet, is a class of [neural networks](https://www.ibm.com/cloud/learn/neural-networks) that specializes in processing data that has a grid-like topology, such as an image. The benefits of deep learning in healthcare are plentiful – fast, efficient, accurate – but they don’t stop there. Even more benefits lie within the neural networks formed by multiple layers of `AI` and `ML` and their ability to learn. With the help of these great technologies, I have created a model that could **predict whether a person is malignant with Breast Cancer or not**.
 > [Breast cancer](https://my.clevelandclinic.org/health/diseases/3986-breast-cancer) is an uncontrolled growth of breast cells.  
- 
-Why Breast Cancer is dangerous:
+
+
+Why Breast Cancer is Dangerous ☢️:
 * 1 in 8 women who live to be age 70 will develop breast cancer in her lifetime.
 * Breast cancer is the second most common cancer in women in Ireland.
 * In 2020, there were 2.3 million women diagnosed with breast cancer and 685 000 deaths globally [WHO](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)
@@ -134,7 +139,7 @@ To get a local copy up and running follow these simple steps.
 
 Clone the Repo.
   ```sh 
-git clone https://github.com/ACM40960/project-Sukesh-Perla.git
+git clone https://github.com/ACM40960/project-RaghulRavikumar.git
   ```
   
 
@@ -197,17 +202,37 @@ pip install datetime
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Execution
-To Train The Model
+To Train The Model 
+```diff
+- ⚠️ It took approximately 4hrs to train all the images.
+```
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook Note: Please Install if require
-3. Upload "Model.ipynb"
-4. Press Shift+Enter to run cells one by one
+3. Upload [Model.ipynb](https://github.com/ACM40960/project-Sukesh-Perla/blob/main/Model.ipynb)
+4. Press Shift+Enter to run cells one by one (Details intruction is also provided in the notebook itself)
 More information about the model are given in the file
 
 To View as Web Application
 1. Launch Anaconda terminal as mentioned  <a href="#packages">here</a>
 2. Navigate to the location were the project is cloned using cd command
 3. Make sure `Welcome.py` file is located and file structure is maintained
+
+```markdown
+├── src
+    |
+    ├── MyApp
+    │   ├── Welcome.py
+    │   ├── Pages
+    │   |   ├── How_To_Use.py
+    │   |   ├── Predict.py
+    │   ├── Data
+    │   |   ├── data.csv
+    │   ├── Best Model
+    ├── Images
+    ├── Model.ipynb
+    ├── README.md
+```
+
 4. Now use below command to host the application locally
 ```sh 
   streamlit run Welcome.py
@@ -217,14 +242,14 @@ To View as Web Application
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once the webpage is launched click on the [Predict](https://github.com/ACM40960/project-Sukesh-Perla.git) tab
+Once the webpage is launched click on the [Predict](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/Predict) tab
 * Step 1: Fill the User Information (Not Mandatory)
 * Step 2: Upload The Image
 	* Step 2.1: Browse File to upload the histopathology image
-	* Step 2.2: You can also use sample image if you don't have any by selecting Use Sample Image
+	* Step 2.2: You can also use sample image from drop down list if you don't have any histopathalogy image for testing.
 * Step 3: Click "Run On This Image"
-* Step 4: Please Wait
-> You can see the result for the uploaded image
+* Step 4: Please Wait, Result with useful information will be displayed
+
 
 _For detailed steps with screenshot, please refer to the [How-To-Use](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use)_
 
@@ -237,7 +262,7 @@ _For detailed steps with screenshot, please refer to the [How-To-Use](https://na
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Improve Accuracy of the Model (Current Accuracy at 92%)
+- [ ] Improve Accuracy of the Model (Current Accuracy at 91.5%)
 - [ ] Include Login Functionality
 - [ ] Introduce Database to store user information
 - [ ] Fix [Issues](https://github.com/ACM40960/project-Sukesh-Perla/issues) if any  
@@ -277,9 +302,11 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Sukesh Perla - [LinkedIn](https://www.linkedin.com/in/sukeshperla/) - sukesh9244@gmail.com
+Name - [Raghul Ravikumar](https://www.linkedin.com/in/sukeshperla) - raghul0211@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Sukesh-Perla)
+
+Website Link: [Web Application](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -288,7 +315,7 @@ Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Suke
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Below are the list of websites we found useful while crating this application!
 
 * [Machine Learning](https://www.sciencedirect.com/science/article/pii/S2001037014000464)
 * [Breast Cancer Detection from thermogram](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262349#sec018)
@@ -299,6 +326,9 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [Streamlit Documentation](https://docs.streamlit.io/)
 
+<!-- Thank You -->
+## Thank You
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -306,20 +336,20 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-2-green
-[contributors-url]: https://github.com/ACM40960/project-RaghulRavikumar/graphs/contributors
+[contributors-url]: https://github.com/ACM40960/project-Sukesh-Perla/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/Fork-0-red
-[forks-url]: https://github.com/ACM40960/project-RaghulRavikumar/network/members
+[forks-url]: https://github.com/ACM40960/project-Sukesh-Perla/network/members
 [issues-shield]: https://img.shields.io/badge/Issues-0-blue
-[issues-url]: https://github.com/ACM40960/project-RaghulRavikumar/issues
+[issues-url]: https://github.com/ACM40960/project-Sukesh-Perla/issues
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue
-[linkedin-url]: https://www.linkedin.com/in/raghul0211/
+[linkedin-url]: https://www.llinkedin.com/in/sukeshperla
 [product-screenshot]: Images/introduction.png
 [python]: https://img.shields.io/badge/Python_3.8-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org/
 [atom]: https://img.shields.io/badge/atom-000000?style=for-the-badge&logo=atom&logoColor=white&color=green
 [atom-url]: https://atom.io/
 [streamlit-url]:https://streamlit.io/
-[streamlit]:https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red&color=black
+[streamlit]:https://img.shields.io/badge/streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red&color=grey
 [anaconda]:https://img.shields.io/badge/anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=white&color=darkgreen
 [anaconda-url]:https://www.anaconda.com/
 [jupyter-url]:https://jupyter.org/
@@ -332,3 +362,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [numpy-url]:https://numpy.org/
 [pandas]:https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
 [pandas-url]:https://pandas.pydata.org/
+
+

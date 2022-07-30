@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Images/pink-ribbon-transparent-9" alt="Logo" width="200" height="200">
+    <img src="Images/pink-ribbon-transparent-9.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">BREAST CANCER DETECTION</h3>
@@ -139,7 +139,7 @@ To get a local copy up and running follow these simple steps.
 
 Clone the Repo.
   ```sh 
-git clone https://github.com/ACM40960/project-RaghulRavikumar.git
+git clone https://github.com/ACM40960/project-Sukesh-Perla.git
   ```
   
 

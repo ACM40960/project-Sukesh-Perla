@@ -39,7 +39,7 @@
     <a href="https://github.com/ACM40960/project-Sukesh-Perla"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use">View Demo</a>
+    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.come">View Demo</a>
     ·
     <a href="https://github.com/ACM40960/project-Sukesh-Perla/issues">Report Bug</a>
     ·

@@ -36,14 +36,14 @@
   <p align="center">
     Prediction of Breast Cancer using histopathology image
     <br />
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ACM40960/project-Sukesh-Perla"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use">View Demo</a>
     ·
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Report Bug</a>
+    <a href="https://github.com/ACM40960/project-Sukesh-Perla/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ACM40960/project-RaghulRavikumar/issues">Request Feature</a>
+    <a href="https://github.com/ACM40960/project-Sukesh-Perla/issues">Request Feature</a>
   </p>
 </div>
 
@@ -200,24 +200,24 @@ pip install datetime
 To Train The Model
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook Note: Please Install if require
-3. Upload "Second version.ipynb"
+3. Upload "Model.ipynb"
 4. Press Shift+Enter to run cells one by one
 More information about the model are given in the file
 
 To View as Web Application
 1. Launch Anaconda terminal as mentioned  <a href="#packages">here</a>
 2. Navigate to the location were the project is cloned using cd command
-3. Make sure `information.py` file is located and file structure is maintained
+3. Make sure `Welcome.py` file is located and file structure is maintained
 4. Now use below command to host the application locally
 ```sh 
-  streamlit run information.py
+  streamlit run Welcome.py
   ```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once the webpage is launched click on the [Predict](http://localhost:8501/Predict) tab
+Once the webpage is launched click on the [Predict](https://github.com/ACM40960/project-Sukesh-Perla.git) tab
 * Step 1: Fill the User Information (Not Mandatory)
 * Step 2: Upload The Image
 	* Step 2.1: Browse File to upload the histopathology image
@@ -226,7 +226,7 @@ Once the webpage is launched click on the [Predict](http://localhost:8501/Predic
 * Step 4: Please Wait
 > You can see the result for the uploaded image
 
-_For detailed steps with screenshot, please refer to the [How-To-Use](http://localhost:8501/How_To_Use)_
+_For detailed steps with screenshot, please refer to the [How-To-Use](https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -277,7 +277,7 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Sukesh Perla - [Sukesh Perla](linkedin.com/in/sukeshperla) - sukesh9244@gmail.com
+Your Name - [Sukesh Perla](linkedin.com/in/sukeshperla) - sukesh9244@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Sukesh-Perla)
 

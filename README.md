@@ -346,7 +346,7 @@ Below are the list of websites we found useful while crating this application!
 [issues-shield]: https://img.shields.io/badge/Issues-0-blue
 [issues-url]: https://github.com/ACM40960/project-Sukesh-Perla/issues
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue
-[linkedin-url]: https://www.llinkedin.com/in/sukeshperla
+[linkedin-url]: https://www.linkedin.com/in/sukeshperla
 [product-screenshot]: Images/introduction.png
 [python]: https://img.shields.io/badge/Python_3.8-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org/

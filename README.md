@@ -37,7 +37,7 @@
   <p align="center">
     "Prediction Of Breast Cancer Using Histopathology Image" <br> By <br> Sukesh Perla & Raghul Ravikumar<br>
     <br />
-    <a href="https://github.com/ACM40960/project-Sukesh-Perla."><strong>Explore the docs »</strong></a>
+    <a href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/"><strong>Explore the Website »</strong></a>
     <br />
     <br />
     <a  href="https://nascent-bot-cancer-app-myappwelcome-i66wjm.streamlitapp.com/How_To_Use" target="_blank">View Demo</a>
@@ -209,7 +209,7 @@ To Train The Model
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook Note: Please Install if require
 3. Upload [Model.ipynb](https://github.com/ACM40960/project-Sukesh-Perla/blob/main/Model.ipynb)
-4. Press Shift+Enter to run cells one by one (Details intruction is also provided in the notebook itself)
+4. Press Shift+Enter to run cells one by one (Details instruction is also provided in the notebook itself)
 More information about the model are given in the file
 
 To View as Web Application
@@ -246,7 +246,7 @@ Once the webpage is launched click on the [Predict](https://nascent-bot-cancer-a
 * Step 1: Fill the User Information (Not Mandatory)
 * Step 2: Upload The Image
 	* Step 2.1: Browse File to upload the histopathology image
-	* Step 2.2: You can also use sample image from drop down list if you don't have any histopathalogy image for testing.
+	* Step 2.2: You can also use sample image from drop down list if you don't have any histopathology image for testing.
 * Step 3: Click "Run On This Image"
 * Step 4: Please Wait, Result with useful information will be displayed
 
@@ -337,7 +337,7 @@ Below are the list of websites we found useful while crating this application!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-2-green
 [contributors-url]: https://github.com/ACM40960/project-Sukesh-Perla/graphs/contributors
-[forks-shield]: https://img.shields.io/badge/Fork-0-red
+[forks-shield]: https://img.shields.io/badge/Fork-1-red
 [forks-url]: https://github.com/ACM40960/project-Sukesh-Perla/network/members
 [issues-shield]: https://img.shields.io/badge/Issues-0-blue
 [issues-url]: https://github.com/ACM40960/project-Sukesh-Perla/issues

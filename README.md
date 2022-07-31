@@ -201,7 +201,8 @@ pip install datetime
   ```
   
 <p align="right">(<a href="#top">back to top</a>)</p>
-## Project Flow  
+
+## Project Flow.   
 ![Video](https://github.com/ACM40960/project-Sukesh-Perla/blob/main/Images/project%20flow.gif)
 
 ### Execution

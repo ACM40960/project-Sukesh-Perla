@@ -306,7 +306,7 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Name - [Raghul Ravikumar](https://www.linkedin.com/in/sukeshperla) - raghul0211@gmail.com
+Name - [Sukesh Perla](https://www.linkedin.com/in/sukeshperla) - sukesh9244@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Sukesh-Perla)
 
